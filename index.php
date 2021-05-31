@@ -1,1 +1,1 @@
-<?php  require_once ("1tchoice.html")  ?>
+<?php  require_once ("Relatos.html")  ?>
